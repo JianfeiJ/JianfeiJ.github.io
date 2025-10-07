@@ -30,17 +30,18 @@ My research interest includes 3D Reconstruction especially on Multi-View Stereo 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/monomvsnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network](https://arxiv.org/abs/2507.11333)
 
 **Jianfei Jiang**, Qiankun Liu*, Haochen Yu, Hongyuan Liu, Liyong Wang, Jiansheng Chen, Huimin Ma*
+
 [**Project**](https://github.com/JianfeiJ/MonoMVSNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/rrtmvs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RRT-MVS: Recurrent Regularization Transformer for Multi-View Stereo](https://ojs.aaai.org/index.php/AAAI/article/view/32418)
@@ -51,12 +52,12 @@ My research interest includes 3D Reconstruction especially on Multi-View Stereo 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/dimvs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Multi-View Stereo with Depth-Aware Iterations and Hybrid Loss Strategy](https://www.sciencedirect.com/science/article/abs/pii/S003132032501163X)
 
-**Jianfei Jiang**, Huimin Ma
+**Jianfei Jiang**, Huimin Ma*
 
 [**Project**](https://github.com/JianfeiJ/DI-MVS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
