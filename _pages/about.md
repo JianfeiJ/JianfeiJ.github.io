@@ -23,10 +23,10 @@ My research interest includes 3D Reconstruction especially on Multi-View Stereo 
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 MVSMamba has been accepted NeurIPS 2025.
-- *2025.09*: &nbsp;🎉🎉 DI-MVS++ has been accepted Pattern Recognition.
-- *2025.06*: &nbsp;🎉🎉 MonoMVSNet has been accepted ICCV 2025.
-- *2024.12*: &nbsp;🎉🎉 RRT-MVS has been accepted AAAI 2025.
+- *2025.09*: &nbsp;🎉🎉 MVSMamba has been accepted by NeurIPS 2025.
+- *2025.09*: &nbsp;🎉🎉 DI-MVS++ has been accepted by Pattern Recognition.
+- *2025.06*: &nbsp;🎉🎉 MonoMVSNet has been accepted by ICCV 2025.
+- *2024.12*: &nbsp;🎉🎉 RRT-MVS has been accepted by AAAI 2025.
 
 # 📝 Publications 
 
@@ -63,7 +63,7 @@ My research interest includes 3D Reconstruction especially on Multi-View Stereo 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2026</div><img src='images/dimvs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/dimvs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Multi-View Stereo with Depth-Aware Iterations and Hybrid Loss Strategy](https://www.sciencedirect.com/science/article/abs/pii/S003132032501163X)
