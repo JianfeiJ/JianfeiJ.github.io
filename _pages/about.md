@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD Candidate at the University of Science and Technology Beijing advised by Prof. Huimin Ma. and co-advised by Assistant Prof. Qiankun Liu.
+I am a PhD Candidate at the University of Science and Technology Beijing advised by <a href="https://scholar.google.com/citations?user=32hwVLEAAAAJ&hl=zh-CN">Prof. Huimin Ma</a>.
 
 My research interest includes 3D Reconstruction especially on Multi-View Stereo and Gaussian Splatting.
 
