@@ -23,8 +23,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 MVSMamba has been accepted NeurIPS 2025.
+- *2025.09*: &nbsp;🎉🎉 DI-MVS++ has been accepted Pattern Recognition.
+- *2025.06*: &nbsp;🎉🎉 MonoMVSNet has been accepted ICCV 2025.
+- *2024.12*: &nbsp;🎉🎉 RRT-MVS has been accepted AAAI 2025.
 
 # 📝 Publications 
 
