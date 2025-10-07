@@ -30,12 +30,25 @@ My research interest includes 3D Reconstruction especially on Multi-View Stereo 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/mvsmamba.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MVSMamba: Multi-View Stereo with State Space Model](https://jianfeij.github.io/)
+
+**Jianfei Jiang**, Qiankun Liu, Hongyuan Liu, Haochen Yu, Liyong Wang, Jiansheng Chen, Huimin Ma
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/rrtmvs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/monomvsnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network](https://arxiv.org/abs/2507.11333)
 
-**Jianfei Jiang**, Qiankun Liu*, Haochen Yu, Hongyuan Liu, Liyong Wang, Jiansheng Chen, Huimin Ma*
+**Jianfei Jiang**, Qiankun Liu, Haochen Yu, Hongyuan Liu, Liyong Wang, Jiansheng Chen, Huimin Ma
 
 [**Project**](https://github.com/JianfeiJ/MonoMVSNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -46,7 +59,8 @@ My research interest includes 3D Reconstruction especially on Multi-View Stereo 
 
 [RRT-MVS: Recurrent Regularization Transformer for Multi-View Stereo](https://ojs.aaai.org/index.php/AAAI/article/view/32418)
 
-**Jianfei Jiang**, Liyong Wang, Haochen Yu, Tianyu Hu, Jiansheng Chen, Huimin Ma*
+**Jianfei Jiang**, Liyong Wang, Haochen Yu, Tianyu Hu, Jiansheng Chen, Huimin Ma
+
 
 [**Project**](https://github.com/JianfeiJ/RRT-MVS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -57,7 +71,7 @@ My research interest includes 3D Reconstruction especially on Multi-View Stereo 
 
 [Efficient Multi-View Stereo with Depth-Aware Iterations and Hybrid Loss Strategy](https://www.sciencedirect.com/science/article/abs/pii/S003132032501163X)
 
-**Jianfei Jiang**, Huimin Ma*
+**Jianfei Jiang**, Huimin Ma
 
 [**Project**](https://github.com/JianfeiJ/DI-MVS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
