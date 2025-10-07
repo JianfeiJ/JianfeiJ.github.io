@@ -9,7 +9,7 @@
 title                    : "Jianfei Jiang"
 description              : "PhD Candidate focous on 3D Reconstruction. "
 repository               : "JianfeiJ/JianfeiJ.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jianfei Jiang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/jianfeij.png"
   bio              : "University of Science and Technology Beijing"
   location         : "Beijing, China"
   employer         :
