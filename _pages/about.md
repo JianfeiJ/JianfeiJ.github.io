@@ -33,7 +33,7 @@ My research interest includes 3D Reconstruction especially on Multi-View Stereo 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/mvsmamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MVSMamba: Multi-View Stereo with State Space Model](https://jianfeij.github.io/)
+MVSMamba: Multi-View Stereo with State Space Model
 
 **Jianfei Jiang**, Qiankun Liu, Hongyuan Liu, Haochen Yu, Liyong Wang, Jiansheng Chen, Huimin Ma
 
