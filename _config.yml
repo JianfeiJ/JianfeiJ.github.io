@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jianfei Jiang"
-description              : "PhD Candidate at University of Science and Technology Beijing. "
+description              : "PhD Candidate focous on 3D Reconstruction. "
 repository               : "JianfeiJ/JianfeiJ.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jianfei Jiang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : #"University of Science and Technology Beijing"
+  bio              : "University of Science and Technology Beijing"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
