@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD Candidate at the University of Science and Technology Beijing advised by <a href="https://scholar.google.com/citations?user=32hwVLEAAAAJ&hl=zh-CN">Prof. Huimin Ma</a>.
+# 👋 Welcome
+I am a second-year PhD student at the University of Science and Technology Beijing advised by <a href="https://scholar.google.com/citations?user=32hwVLEAAAAJ&hl=zh-CN">Prof. Huimin Ma</a>.
 
 My research interest includes 3D Reconstruction especially on Multi-View Stereo and Gaussian Splatting.
 
+Feel free to contact me via Email if you are interested in discussing or collaborating with me.
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 MVSMamba has been accepted by NeurIPS 2025.
@@ -47,7 +49,7 @@ MVSMamba: Multi-View Stereo with State Space Model
 
 **Jianfei Jiang**, Qiankun Liu, Haochen Yu, Hongyuan Liu, Liyong Wang, Jiansheng Chen, Huimin Ma
 
-[**Project**](https://github.com/JianfeiJ/MonoMVSNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Github**](https://github.com/JianfeiJ/MonoMVSNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -59,7 +61,7 @@ MVSMamba: Multi-View Stereo with State Space Model
 **Jianfei Jiang**, Liyong Wang, Haochen Yu, Tianyu Hu, Jiansheng Chen, Huimin Ma
 
 
-[**Project**](https://github.com/JianfeiJ/RRT-MVS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Github**](https://github.com/JianfeiJ/RRT-MVS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -70,7 +72,7 @@ MVSMamba: Multi-View Stereo with State Space Model
 
 **Jianfei Jiang**, Huimin Ma
 
-[**Project**](https://github.com/JianfeiJ/DI-MVS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Github**](https://github.com/JianfeiJ/DI-MVS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
