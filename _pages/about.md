@@ -63,7 +63,7 @@ My research interest includes 3D Reconstruction especially on Multi-View Stereo 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/dimvs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2026</div><img src='images/dimvs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Multi-View Stereo with Depth-Aware Iterations and Hybrid Loss Strategy](https://www.sciencedirect.com/science/article/abs/pii/S003132032501163X)
