@@ -42,6 +42,16 @@ MVSMamba: Multi-View Stereo with State Space Model
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/instdrive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InstDrive: Instance-Aware 3D Gaussian Splatting for Driving Scenes](https://arxiv.org/abs/2508.12015)
+
+Hongyuan Liu, Haochen Yu, Bochao Zou, **Jianfei Jiang**, Qiankun Liu, Jiansheng Chen, Huimin Ma
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/monomvsnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
