@@ -42,16 +42,6 @@ MVSMamba: Multi-View Stereo with State Space Model
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/instdrive.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[InstDrive: Instance-Aware 3D Gaussian Splatting for Driving Scenes](https://arxiv.org/abs/2508.12015)
-
-Hongyuan Liu, Haochen Yu, Bochao Zou, **Jianfei Jiang**, Qiankun Liu, Jiansheng Chen, Huimin Ma
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/monomvsnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -83,6 +73,31 @@ Hongyuan Liu, Haochen Yu, Bochao Zou, **Jianfei Jiang**, Qiankun Liu, Jiansheng 
 **Jianfei Jiang**, Huimin Ma
 
 [**Github**](https://github.com/JianfeiJ/DI-MVS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+# 📝 Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/xyzcylinder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[XYZCylinder: Feedforward Reconstruction for Driving Scenes Based on A Unified Cylinder Lifting Method](https://arxiv.org/abs/2510.07856)
+
+Haochen Yu, Qiankun Liu, Hongyuan Liu, **Jianfei Jiang**, Juntao Lyu, Jiansheng Chen, Huimin Ma
+
+[**Project**](https://yuyuyu223.github.io/XYZCYlinder-projectpage/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>/[**Github**](https://github.com/yuyuyu223/XYZCylinder) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/instdrive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InstDrive: Instance-Aware 3D Gaussian Splatting for Driving Scenes](https://arxiv.org/abs/2508.12015)
+
+Hongyuan Liu, Haochen Yu, Bochao Zou, **Jianfei Jiang**, Qiankun Liu, Jiansheng Chen, Huimin Ma
+
 </div>
 </div>
 
