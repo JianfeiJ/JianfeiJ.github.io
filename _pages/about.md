@@ -102,7 +102,7 @@ Hongyuan Liu, Haochen Yu, Bochao Zou, **Jianfei Jiang**, Qiankun Liu, Jiansheng 
 </div>
 
 # 📖 Educations
-- *2024.09 - present*, Ph.D. candidate in Computer Science and Technology, University of Science and Technology Beijing 
+- *2024.09 - present*, Ph.D. student in Computer Science and Technology, University of Science and Technology Beijing 
 - *2021.09 - 2024.06*, M.E. in Artificial Intelligence, Anhui University
 - *2017.09 - 2021.06*, B.E. in Network Engineering, Jiangxi Normal University
 
