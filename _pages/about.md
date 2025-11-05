@@ -35,9 +35,11 @@ Feel free to contact me via Email if you are interested in discussing or collabo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/mvsmamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MVSMamba: Multi-View Stereo with State Space Model
+[MVSMamba: Multi-View Stereo with State Space Model](https://arxiv.org/abs/2511.01315)
 
 **Jianfei Jiang**, Qiankun Liu, Hongyuan Liu, Haochen Yu, Liyong Wang, Jiansheng Chen, Huimin Ma
+
+[**Arxiv**](https://arxiv.org/abs/2511.01315) / [**Github**](https://github.com/JianfeiJ/MVSMamba)
 
 </div>
 </div>
@@ -45,11 +47,11 @@ MVSMamba: Multi-View Stereo with State Space Model
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/monomvsnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network](https://arxiv.org/abs/2507.11333)
+[MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network](https://openaccess.thecvf.com/content/ICCV2025/html/Jiang_MonoMVSNet_Monocular_Priors_Guided_Multi-View_Stereo_Network_ICCV_2025_paper.html)
 
 **Jianfei Jiang**, Qiankun Liu, Haochen Yu, Hongyuan Liu, Liyong Wang, Jiansheng Chen, Huimin Ma
 
-[**Github**](https://github.com/JianfeiJ/MonoMVSNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Arxiv**](https://arxiv.org/abs/2507.11333) / [**Github**](https://github.com/JianfeiJ/MonoMVSNet)
 </div>
 </div>
 
@@ -61,7 +63,7 @@ MVSMamba: Multi-View Stereo with State Space Model
 **Jianfei Jiang**, Liyong Wang, Haochen Yu, Tianyu Hu, Jiansheng Chen, Huimin Ma
 
 
-[**Github**](https://github.com/JianfeiJ/RRT-MVS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Github**](https://github.com/JianfeiJ/RRT-MVS)
 </div>
 </div>
 
@@ -72,7 +74,7 @@ MVSMamba: Multi-View Stereo with State Space Model
 
 **Jianfei Jiang**, Huimin Ma
 
-[**Github**](https://github.com/JianfeiJ/DI-MVS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Github**](https://github.com/JianfeiJ/DI-MVS)
 </div>
 </div>
 
@@ -86,7 +88,7 @@ MVSMamba: Multi-View Stereo with State Space Model
 
 Haochen Yu, Qiankun Liu, Hongyuan Liu, **Jianfei Jiang**, Juntao Lyu, Jiansheng Chen, Huimin Ma
 
-[**Project**](https://yuyuyu223.github.io/XYZCYlinder-projectpage/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>/[**Github**](https://github.com/yuyuyu223/XYZCylinder) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://yuyuyu223.github.io/XYZCYlinder-projectpage/) / [**Github**](https://github.com/yuyuyu223/XYZCylinder) 
 
 </div>
 </div>
