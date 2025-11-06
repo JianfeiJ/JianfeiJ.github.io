@@ -35,7 +35,7 @@ Feel free to contact me via Email if you are interested in discussing or collabo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/mvsmamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MVSMamba: Multi-View Stereo with State Space Model](https://arxiv.org/abs/2511.01315)
+[MVSMamba: Multi-View Stereo with State Space Model](https://openreview.net/pdf?id=DLVn11YIHx)
 
 **Jianfei Jiang**, Qiankun Liu, Hongyuan Liu, Haochen Yu, Liyong Wang, Jiansheng Chen, Huimin Ma
 
