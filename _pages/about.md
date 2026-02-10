@@ -114,5 +114,6 @@ Hongyuan Liu, Haochen Yu, Bochao Zou, **Jianfei Jiang**, Qiankun Liu, Jiansheng 
 # 💬 Academic Services
 - Conference Reviewer: CVPR, ECCV, AAAI
 - Journal Reviewer: IJCV
+
 # 💻 Internships
 ...
