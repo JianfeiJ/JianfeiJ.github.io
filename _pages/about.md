@@ -109,10 +109,10 @@ Hongyuan Liu, Haochen Yu, Bochao Zou, **Jianfei Jiang**, Qiankun Liu, Jiansheng 
 - *2017.09 - 2021.06*, B.E. in Network Engineering, Jiangxi Normal University
 
 # 🎖 Honors and Awards
-...
+- 中国科协青年科技人才培育工程博士生专项计划
 
-# 💬 Invited Talks
-...
-
+# 💬 Academic Services
+- Conference Reviewer: CVPR, ECCV, AAAI
+- Journal Reviewer: IJCV
 # 💻 Internships
 ...
